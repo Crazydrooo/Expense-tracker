@@ -1,0 +1,24 @@
+/* .main_container{
+    background-color: purple;
+} */
+
+.expense_sub_container{
+    /* background-color: purple; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+    border: 2px solid black;
+}
+
+.income_amt{
+    color: green;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.expence_amt{
+    color:red;
+    font-weight: bolder;
+    font-size: larger;
+}
